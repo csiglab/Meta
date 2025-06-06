@@ -1,3 +1,3 @@
 # Bremontix
 
-![Bremontix](img/bremontix.png)
+![Bremontix](img/resized/bremontix_256x256.png)
