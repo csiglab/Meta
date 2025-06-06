@@ -1,6 +1,3 @@
-# meta
+# Bremontix
 
-![alt text](img/logo.png)
-
-
-Bremontix Laboratorio
+![Bremontix](img/bremontix.png)
