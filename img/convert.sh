@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Original image
-INPUT="bremontix.png"
+INPUT="bremontix-laboratorio-arbitrista.png"
 NAME=$(basename "$INPUT" | cut -f 1 -d '.')
 
 echo $NAME
