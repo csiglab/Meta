@@ -1,7 +1,9 @@
 #!/bin/bash
 
+# sudo apt install imagemagick
+
 # Original image
-INPUT="bremontix-laboratorio-arbitrista.png"
+INPUT="dbremont.png"
 NAME=$(basename "$INPUT" | cut -f 1 -d '.')
 
 echo $NAME
