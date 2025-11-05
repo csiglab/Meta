@@ -3,7 +3,7 @@
 # sudo apt install imagemagick
 
 # Original image
-INPUT="dbremont.png"
+INPUT="bremontix-laboratorio-legalogia.png"
 NAME=$(basename "$INPUT" | cut -f 1 -d '.')
 
 echo $NAME
